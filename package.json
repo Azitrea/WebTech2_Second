@@ -1,0 +1,19 @@
+{
+  "name": "second",
+  "version": "1.0.0",
+  "dependencies": {
+    "fast-csv": "^2.4.1",
+    "winston": "^3.2.1",
+    "fs": "0.0.1-security",
+    "jsbarcode": "^3.11.0",
+    "canvas": "2.3.1"
+  },
+  "description": "none",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
